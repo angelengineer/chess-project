@@ -1,0 +1,4 @@
+[console_scripts]
+node = chess_manager.node:main
+robot_move = chess_manager.robot_move:main
+robot_move_publisher = chess_manager.robot_move_publisher:main

@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+chess_manager/__init__.py
+chess_manager/node.py
+chess_manager/robot_move.py
+chess_manager/robot_move_publisher.py
+chess_manager.egg-info/PKG-INFO
+chess_manager.egg-info/SOURCES.txt
+chess_manager.egg-info/dependency_links.txt
+chess_manager.egg-info/entry_points.txt
+chess_manager.egg-info/requires.txt
+chess_manager.egg-info/top_level.txt
+chess_manager.egg-info/zip-safe
+resource/chess_manager

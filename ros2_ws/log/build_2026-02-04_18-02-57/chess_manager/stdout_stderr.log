@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating chess_manager.egg-info
+writing chess_manager.egg-info/PKG-INFO
+writing dependency_links to chess_manager.egg-info/dependency_links.txt
+writing entry points to chess_manager.egg-info/entry_points.txt
+writing requirements to chess_manager.egg-info/requires.txt
+writing top-level names to chess_manager.egg-info/top_level.txt
+writing manifest file 'chess_manager.egg-info/SOURCES.txt'
+reading manifest file 'chess_manager.egg-info/SOURCES.txt'
+writing manifest file 'chess_manager.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/lib/python3.12/site-packages/chess-manager.egg-link (link to .)
+Installing node script to /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/lib/chess_manager
+Installing robot_move script to /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/lib/chess_manager
+Installing robot_move_publisher script to /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/lib/chess_manager
+
+Installed /home/angel/Projects/chess-project/ros2_ws/build/chess_manager
+running symlink_data
+creating /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/share/ament_index
+creating /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/share/ament_index/resource_index
+creating /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/share/ament_index/resource_index/packages
+symbolically linking /home/angel/Projects/chess-project/ros2_ws/build/chess_manager/resource/chess_manager -> /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/share/ament_index/resource_index/packages
+symbolically linking /home/angel/Projects/chess-project/ros2_ws/build/chess_manager/package.xml -> /home/angel/Projects/chess-project/ros2_ws/install/chess_manager/share/chess_manager
